@@ -24,7 +24,7 @@ public class displaySum
 			} catch (Exception e)
 			{
 				scan.next();
-				System.out.println("Invalid input, please only use ints\n\na");
+				System.out.println("Invalid input, please only use ints\n");
 			}
 		}
 		
