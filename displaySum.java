@@ -5,9 +5,7 @@ public class displaySum
 	public static void main(String[] args)
 	{
 		Scanner scan = new Scanner(System.in);
-		int val1;
-		int val2;
-		int val3;
+		int val1, val2, val3;
 		boolean inputFlag = true;
 		
 		while (inputFlag)
