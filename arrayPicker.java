@@ -27,5 +27,7 @@ public class arrayPicker
 				System.out.println("Error, please try again");
 			}
 		}
+		
+		scan.close();
 	}
 }
