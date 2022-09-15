@@ -32,7 +32,7 @@ public class arrayPicker
 				System.out.println("Out of Bounds");
 			} catch (Exception e)
 			{
-				//catches anhy other error, resets Scanner and moves to next iteration of loop
+				//catches any other error, resets Scanner and moves to next iteration of loop
 				scan.next();
 				System.out.println("Error, please try again");
 			}
